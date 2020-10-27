@@ -1297,7 +1297,7 @@ Begin VB.Form FormSettings
          Appearance      =   0  'Flat
          BackColor       =   &H000000FF&
          BackStyle       =   0  'Transparent
-         Caption         =   "Repeated times of a asingle kana:"
+         Caption         =   "Repeated times of a single kana:"
          ForeColor       =   &H00000000&
          Height          =   375
          Left            =   525
